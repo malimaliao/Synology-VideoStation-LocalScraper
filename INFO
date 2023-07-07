@@ -1,0 +1,15 @@
+{
+	"id": "Synology-VideoStation-LocalScraper",
+	"description": "视频本地刮削器插件",
+	"version": "1.0",
+	"site": "http://www.github.com/",
+	"entry_file": "loader.sh",
+	"type": ["movie"],
+	"language": ["chs","enu"],
+	"test_example": {
+		"movie": {
+			"title": "V字仇杀队",
+			"original_available": "2006-03-17"
+		}
+	}
+}
